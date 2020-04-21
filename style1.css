@@ -1,0 +1,19 @@
+
+ul {
+
+text-decoration: none;
+list-style: none;
+display: flex;
+justify-content: space-around;
+background: rgba(255, 196, 0, 0.473);
+
+top: 3;
+left: 10;
+}
+body {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  grid-gap: 50px;
+}
