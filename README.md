@@ -1,5 +1,5 @@
-# meuprimeiroprojeto em HTML
+# PRIMEIRO PROJETO EM HTML
 
-Criei esse portifólio simples em HTML.
+
 
 
